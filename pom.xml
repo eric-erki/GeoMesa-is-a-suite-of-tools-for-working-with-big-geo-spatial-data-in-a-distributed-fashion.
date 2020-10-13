@@ -85,7 +85,7 @@
         <metrics.version>3.2.6</metrics.version>
 
         <specs2.version>4.3.2</specs2.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <!-- *** provided artifacts, not bundled to support multiple environments *** -->
 
