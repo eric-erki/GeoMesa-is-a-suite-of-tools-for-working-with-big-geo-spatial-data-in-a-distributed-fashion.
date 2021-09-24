@@ -81,7 +81,7 @@
         <scalatra.version>2.6.3</scalatra.version>
         <kryo.version>3.0.3</kryo.version>
         <arrow.version>0.10.0</arrow.version>
-        <netty.version>4.1.17.Final</netty.version>
+        <netty.version>4.1.68.Final</netty.version>
         <metrics.version>3.2.6</metrics.version>
 
         <specs2.version>4.3.2</specs2.version>
